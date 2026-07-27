@@ -203,15 +203,3 @@ Plain text representation of animal records with one record per line containing 
 
 ### JSON Format (.json)
 Structured JSON format preserving all animal properties and relationships for programmatic access and compatibility.
-
-## License
-
-This project is provided as-is without a specified license.
-
-## Author
-
-Created by @pixabel
-
----
-
-*Last Updated: August 2024*
